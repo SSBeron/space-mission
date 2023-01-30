@@ -1,6 +1,6 @@
 body {
   margin: 30px;
-  color: rgb(45, 42, 61);
+  color: white;
   background: black;
 }
 
@@ -28,9 +28,10 @@ h3 {
   margin-top: 15px;
 }
 
-th{
-  color: white;
+/* th{
+  color: rgb(0, 0, 0);
 }
 td{
-  color: white;
-}
+  color: rgb(0, 0, 0);
+} */
+
